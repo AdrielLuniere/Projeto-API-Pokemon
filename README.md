@@ -25,16 +25,16 @@ A página será recarregada quando você fizer alterações.\
 <div style="display: flex; gap: 15px; flex-direction: column">
 <img src="./src/design/darktheme.jpg" alt="Desktop Theme Dark">
 <img src="./src/design/lighttheme.jpg" alt="Desktop Theme Light">
-<img src="./src/design/selecttype.jpg" alt="Desktop Select Type">
-<img src="./src/design/details.jpg" alt="Desktop Details Page">
+<img src="./src/design/selecttype.JPG" alt="Desktop Select Type">
+<img src="./src/design/details.JPG" alt="Desktop Details Page">
 </div> 
 
 # Screenshots - Mobile
 
 <div style="display: flex; gap: 15px; flex-direction: column">
-<img src="./src/design/mobiledetailsimg.jpg" alt="Mobile Infos Image">
-<img src="./src/design/mobiledetailsmoves.jpg" alt="Mobile Moves">
-<img src="./src/design/mobiledetailsabilities.jpg" alt="Mobile Abilities">
+<img src="./src/design/mobiledetailsimg.JPG" alt="Mobile Infos Image">
+<img src="./src/design/mobiledetailsmoves.JPG" alt="Mobile Moves">
+<img src="./src/design/mobiledetailsabilities.JPG" alt="Mobile Abilities">
 </div>
 
 # Pokemon API
