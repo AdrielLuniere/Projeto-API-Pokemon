@@ -11,10 +11,10 @@ Nosso objetivo é criar uma página que usa uma API RESTful e obter todos os dad
 * React Router DOM;
 * Styled Components;
 
-# Começando
+# Tutorial
 
-No diretório do projeto, você pode executar:
-### `npm install`  e depois de ser instalado `npm start` para que o projeto seja executado
+No diretório do projeto, na aba "TERMINAL" você pode executar:
+### `npm install`  e depois de ter instalado `npm start` para que o projeto seja executado
 
 Executa o aplicativo no modo de desenvolvimento.\
 Abre [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
@@ -40,5 +40,3 @@ A página será recarregada quando você fizer alterações.\
 # Pokemon API
 
 https://pokeapi.co/
-
-# Vercel Link
